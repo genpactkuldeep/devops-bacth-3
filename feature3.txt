@@ -1,1 +1,3 @@
-this feature-3 from dev-1 
+this feature-3 from dev-1 ...theek kr liya (now passwords are save)
+
+dev-2 added his changes 
